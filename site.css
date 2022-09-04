@@ -45,3 +45,20 @@
 .button-start {
     margin-top: 60%;
 }
+
+
+#menu {
+    float: center;
+    margin-right: 5%;
+    margin-top: 50%;
+    list-style: none;
+
+    
+}
+
+li {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20 10 20 10;
+}
