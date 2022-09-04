@@ -1,0 +1,47 @@
+.body {
+    background-color: #A7C5AF;
+}
+
+.main {
+    margin-bottom: 15% ;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+.align-center {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.font-upper {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-logo{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 5%;
+}
+
+
+.div-itens-introdução{
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.icon-aris2 {
+    margin-left: 10%;
+    height: 50%;
+}
+
+.div-flex-container {
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 5%;
+  }
+
+.button-start {
+    margin-top: 60%;
+}
